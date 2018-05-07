@@ -1,0 +1,23 @@
+# ninja log v5
+44	3014	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/fft.c.o	478fd048af07e260
+32	3095	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/encoder.c.o	83fa28577ee129cf
+1	3110	0	CMakeFiles/LameMp3.dir/src/main/cpp/LameMp3.c.o	fb17b6f2e757d79c
+3095	3253	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/mpglib_interface.c.o	4bf5ef6901616590
+56	3304	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/gain_analysis.c.o	76db45e5f3500f3
+25	3341	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/bitstream.c.o	ef9720c2ccb9693b
+3254	3781	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/presets.c.o	89d9f9cde960067a
+3111	3901	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/newmdct.c.o	bf032e42287d870f
+3342	4340	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/quantize.c.o	e33e37252444ed40
+67	4479	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/id3tag.c.o	f7137fee3b72530a
+3781	4646	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/quantize_pvt.c.o	a802d2040defd4c3
+3902	4746	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/reservoir.c.o	2554c96e6fad86be
+4480	4800	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/tables.c.o	d6ab222f21a50f3b
+3015	4945	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/lame.c.o	de56539ece2b5ce9
+4341	4973	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/set_get.c.o	9e7b63fc2c54bf78
+3304	5114	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/psymodel.c.o	e98034443a6b2faf
+4974	5196	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/version.c.o	dad04ae2960478af
+4946	5275	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/VbrTag.c.o	f066dddc5bbc52db
+4747	5332	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/util.c.o	1d4f4a1395c7bbfd
+4801	5562	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/vbrquantize.c.o	3b4a560c16247843
+4646	5633	0	CMakeFiles/LameMp3.dir/src/main/cpp/lame/takehiro.c.o	416a3e398f71bac
+5633	6069	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLameMp3.so	d00483ba947f2527

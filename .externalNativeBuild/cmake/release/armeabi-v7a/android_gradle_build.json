@@ -1,0 +1,158 @@
+
+{
+	"buildFiles" : [ "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\0_Independent\\android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\0_Independent\\7.svn\\EmergencyBroadcast\\lametomp3\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"LameMp3-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "LameMp3",
+			"buildCommand" : "D:\\0_Independent\\android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\0_Independent\\7.svn\\EmergencyBroadcast\\lametomp3\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target LameMp3",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/LameMp3.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/bitstream.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/encoder.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/fft.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/gain_analysis.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/id3tag.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/lame.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/mpglib_interface.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/newmdct.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/presets.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/psymodel.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/quantize.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/quantize_pvt.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/reservoir.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/set_get.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/tables.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/takehiro.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/util.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/vbrquantize.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/VbrTag.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/0_Independent/android/android-sdk/ndk-bundle/sysroot -DLameMp3_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\lame -I..\\..\\..\\..\\src\\main\\cpp  -isystem D:/0_Independent/android/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/src/main/cpp/lame/version.c",
+					"workingDirectory" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "D:/0_Independent/7.svn/EmergencyBroadcast/lametomp3/build/intermediates/cmake/release/obj/armeabi-v7a/libLameMp3.so",
+			"toolchain" : "1986783129"
+		}
+	},
+	"toolchains" : 
+	{
+		"1986783129" : 
+		{
+			"cCompilerExecutable" : "D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/0_Independent/android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
